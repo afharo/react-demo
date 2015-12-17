@@ -5,3 +5,5 @@ This is developed using the following technologies:
 - FrontEnd: React
 - BackEnd: NodeJS (Express)
 - DB: MongoDB
+
+For an example of how it works: https://react-afharo-demo.herokuapp.com/
