@@ -1,2 +1,7 @@
 # react-demo
-React Demo
+This repository is a quick example of a *profile user page* where a user can post and review the posts it has already posted.
+
+This is developed using the following technologies:  
+- FrontEnd: React
+- BackEnd: NodeJS (Express)
+- DB: MongoDB
